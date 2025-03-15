@@ -13,10 +13,15 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=CheedTriad&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=CheedTriad&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CheedTriad&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!---
 CheedTriad/CheedTriad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
+add this when I have started using several languages to code:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CheedTriad&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 --->
