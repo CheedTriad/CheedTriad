@@ -10,7 +10,7 @@ product, data, or business analysis.
 ---
 
 **Current project:** Carbon Footprint Tracker  
-Java + Python + Scikit-learn · Sustainability-focused ML app
+Python + Scikit-learn · Sustainability-focused ML app
 
 ---
 
