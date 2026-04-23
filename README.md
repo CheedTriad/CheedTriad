@@ -1,13 +1,18 @@
  👋 **Hi, I’m Chidiere**
  
-  🌱 I am a final year undergraduate at De Montfort University, currently on my path to being a proficient full stack developer.
-
- I have an immense passion for developing technical solutions to business problems, which is represented in several personal projects. I have also developed a strong passion for sustainable, assistive and autonomous software during my budding career in computing, allowing me to dive, even more, into the opportunities that lie therein.
+  
+I build projects that sit at the edge of technology and business. 
+My background covers data analysis, machine learning, team leadership, 
+and stakeholder management. I'm looking for graduate roles in 
+product, data, or business analysis.
  
- I am currently undergoing lots of research, while working on something revolutionary, dare I say, and I look forward to seeing how much I can evolve in my field!
+ 
+---
 
+**Current project:** Carbon Footprint Tracker  
+Java + Python + Scikit-learn · Sustainability-focused ML app
 
-
+---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chidiere_o) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Chidiere-Oluoma) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@chidiere_o) 
@@ -19,6 +24,11 @@
 ![](https://github-readme-stats.vercel.app/api?username=CheedTriad&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=CheedTriad&theme=blue_navy&hide_border=true)<br/>
 --->
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
