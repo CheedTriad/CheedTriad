@@ -4,7 +4,7 @@
 I build projects that sit at the edge of technology and business. 
 My background covers data analysis, machine learning, team leadership, 
 and stakeholder management. I'm looking for graduate roles in 
-product, data, or business analysis.
+product management, data, or business analysis.
  
  
 ---
